@@ -1925,6 +1925,10 @@
     height: 100%;
     border: 1px solid #f0f0f0;
 }
+.allimi-area .swiper-wrapper .swiper-slide img{
+     height: 100%;
+     width: 100%;
+}
 .notice_area{
     position: fixed;
     left: 0;
